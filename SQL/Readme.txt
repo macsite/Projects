@@ -1,2 +1,2 @@
-The following is sample querries for Explore Covida Databas.
-There is also Power BI visualisation based on created querries.
+The following are sample querries used to Explore Covid Database.
+There also is or soon will be Power BI visualisation based on created querries.
