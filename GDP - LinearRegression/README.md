@@ -26,7 +26,4 @@ Once the model is trained, it is evaluated on a separate dataset containing GDP 
 
 Finally, the model can be used to make GDP predictions for new input data by providing a CSV file containing the feature data in the same format as the training and evaluation datasets. 
 
-The model achieved an R-squared value of 0.85 on the evaluation dataset, indicating a good fit to the data. The MSE and MAE were 0.02 and 0.12, respectively, indicating low prediction errors.
-
-
 This code is licensed under the MIT license. See the LICENSE file for more details.
