@@ -1,5 +1,6 @@
 GDP_linear - Linear regression Mmdel for GDP prediction
-gdp_random_forest - Random forest model for GDP prediction
+
+GDP_random_forest - Random forest model for GDP prediction
 
 This code implements a simple linear regression and random forest models to predict GDP based on 5 input features: X1, X2, X3, X4, X5. The model is trained on historical GDP and feature data for multiple years.
 Dependencies
